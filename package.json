@@ -1,0 +1,11 @@
+{
+  "name": "lodash3wrapper",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Daniel Zlotin",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
